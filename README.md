@@ -58,4 +58,6 @@
 
 - Python
 - pandas
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
